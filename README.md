@@ -3,7 +3,9 @@ Lector de archivos DBF para cargarlo en una Base de datos MariaDB utilizando Pyt
 
 ## Complementos necesarios
 pip install tkintertable
+
 pip install mysql-connector
+
 pip install dbfread
 
 ### Funcionamiento
