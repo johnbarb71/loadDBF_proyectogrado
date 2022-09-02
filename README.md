@@ -1,4 +1,4 @@
-# loadDBF_proyectogrado
+# loadDBF
 Lector de archivos DBF para cargarlo en una Base de datos MariaDB utilizando Python
 
 ## Complementos necesarios
