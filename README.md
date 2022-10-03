@@ -3,6 +3,7 @@ Lector de archivos DBF para cargarlo en una Base de datos MariaDB utilizando Pyt
 
 ## Complementos necesarios
 apt install python3-tk
+
 apt install python3-pip
 
 pip install tkintertable
